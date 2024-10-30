@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html{
+    background-color: silver;
+}
+
+.row{
+    weight: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin: 40px;
+}
